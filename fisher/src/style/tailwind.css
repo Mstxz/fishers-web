@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Bubblegum+Sans&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@import "tailwindcss";
+
+@theme {
+    /*CI*/
+    --color-primary: #DBCEA5;
+    --color-secondary-1: #ECE7D1;
+    --color-secondary-2: #B99470;
+    --color-secondary-3: #4B352A;
+    --color-secondary-4: #8E977D;
+    /*Biomes*/
+    --color-river-primary: #9CD5FF;
+    --color-river-secondary-1: #7AAACE;
+    --color-river-secondary-2: #355872;
+
+    --color-volcano-primary: #E6501B;
+    --color-volcano-secondary-1: #740A03;
+    --color-volcano-secondary-2: #280905;
+
+    --color-ocean-primary: #00B7B5;
+    --color-ocean-secondary-1: #018790;
+    --color-ocean-secondary-2: #005461;
+
+    --font-header: "Bubblegum Sans", sans-serif;
+    --font-primary: "Raleway", sans-serif;
+}
